@@ -1,0 +1,18 @@
+{
+    "files.eol": "\n",
+    "files.insertFinalNewline": true,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": "never",
+        "source.fixAll": "explicit"
+    },
+    "editor.rulers": [
+        80
+    ],
+    "editor.tabSize": 4,
+    "editor.formatOnSave": false,
+    "editor.insertSpaces": true,
+    "[c]": {
+        "editor.semanticHighlighting.enabled": true,
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    }
+}

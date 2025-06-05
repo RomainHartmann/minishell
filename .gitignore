@@ -1,0 +1,17 @@
+# Object files
+*.o
+
+# Executables
+*.out
+
+# Librairies
+*.a
+
+# Log files
+*.log
+
+# Binary name
+mysh
+
+# Build folder
+build/
